@@ -1,0 +1,28 @@
+
+        .header-title {
+            font-size: 36px;
+            font-weight: bold;
+            color: #d63384;
+        }
+        .contact-form {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .progress {
+            height: 20px;
+            border-radius: 10px;
+        }
+        .progress-bar.bg-success {
+            background-color: #ff69b4 !important;
+        }
+
+    .social-icons {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 20px;
+    }
+
+    
